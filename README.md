@@ -1,7 +1,3 @@
-# Image-Segmentation-With-U-Net
-
-
-
 # Convolutional Neural Network Architectural Components
 
 This repository contains Python code for building components of a Convolutional Neural Network (CNN). These components include functions for downsampling, bottleneck layers, upsampling, and the final output cell. The code is written using the Keras library.
